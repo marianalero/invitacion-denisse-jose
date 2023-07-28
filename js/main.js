@@ -269,7 +269,7 @@
 		number = number.substring(30,32);
 		// number = number.slice(-6);
 		console.log("confirmando",number);
-		window.open("https://wa.me/+526625887620/?text=Hola,%20quiero%20confirmar%20mi%20asistencia%20para%20la%20boda%20de%20Denisse%20y%20José%20Manuel%20para%20"+number+" personas","_blank");
+		window.open("https://wa.me/+526621729312/?text=Hola,%20quiero%20confirmar%20mi%20asistencia%20para%20la%20boda%20de%20Denisse%20y%20José%20Manuel%20para%20"+number+" personas","_blank");
 		
 	
 	}
